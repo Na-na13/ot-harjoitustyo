@@ -1,0 +1,104 @@
+commit 46be10a7b5fd8e4873ef5f32cadcb4aedeff638a
+Author: Nana Reinikainen <nana.reinikainen@helsinki.fi>
+Date:   Mon Mar 22 20:52:58 2021 +0200
+
+    poisto ja uudelleennimeäminen
+
+ hakemistoja/file1.txt                 | 1 -
+ hakemistoja/{file2.txt => file22.txt} | 0
+ 2 files changed, 1 deletion(-)
+
+commit ee09ae1eb69213ec200cf91fdf802fb8b0e989a0
+Author: Nana Reinikainen <nana.reinikainen@helsinki.fi>
+Date:   Mon Mar 22 20:45:30 2021 +0200
+
+    lisättiin tiedostoja
+
+ hakemistoja/file1.txt | 1 +
+ hakemistoja/file2.txt | 0
+ hakemistoja/file3.txt | 0
+ 3 files changed, 1 insertion(+)
+
+commit 4064d108c6faf267f1c2576f2b7c53e4dd6792ca
+Author: Nana Reinikainen <nana.reinikainen@helsinki.fi>
+Date:   Mon Mar 22 20:23:57 2021 +0200
+
+    teksteihin lisäyksiä ja poistoja
+
+ eka.txt    | 4 +++-
+ kolmas.txt | 3 ++-
+ 2 files changed, 5 insertions(+), 2 deletions(-)
+
+commit 187e280cd0240530cc7a96e91847076fc5e92917
+Author: Nana Reinikainen <nana.reinikainen@helsinki.fi>
+Date:   Mon Mar 22 20:21:32 2021 +0200
+
+    muutos
+
+ tiedosto.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit ba63a26ff8de78a0b5703db6bc1e051b9cb95b77
+Author: Nana Reinikainen <nana.reinikainen@helsinki.fi>
+Date:   Mon Mar 22 20:19:42 2021 +0200
+
+    nimen muutos
+
+ eka.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 84dabe4bb12870b4c72496b8cb4fc3f6d1555867
+Author: Nana Reinikainen <nana.reinikainen@helsinki.fi>
+Date:   Mon Mar 22 20:17:40 2021 +0200
+
+    tiedoston poisto
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 8b35c311fc576a5216bd0eec726551bb4202d89f
+Author: Nana Reinikainen <nana.reinikainen@helsinki.fi>
+Date:   Mon Mar 22 15:39:17 2021 +0200
+
+    kansio lisätty
+
+ stuff/neljas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 79c8db1bc374d00fedfaf9bd85b1e0dc3fce871f
+Author: Nana Reinikainen <nana.reinikainen@helsinki.fi>
+Date:   Mon Mar 22 15:37:30 2021 +0200
+
+    muutoksia
+
+ kolmas.txt | 1 +
+ toinen.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 4c7ebc6f3192a2b7e4207a7e7985b3672b33be19
+Author: Nana Reinikainen <nana.reinikainen@helsinki.fi>
+Date:   Mon Mar 22 15:35:21 2021 +0200
+
+    lisätty kolmas.txt
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 0ada7afd5ecc26bdb444aa8fedddd748833c2b63
+Author: Nana Reinikainen <nana.reinikainen@helsinki.fi>
+Date:   Mon Mar 22 15:29:55 2021 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit 55e3c74e06a1ba347afb9fb04658e19a587d56d8
+Author: Nana Reinikainen <nana.reinikainen@helsinki.fi>
+Date:   Mon Mar 22 15:26:02 2021 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
