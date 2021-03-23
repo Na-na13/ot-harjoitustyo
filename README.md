@@ -1,3 +1,4 @@
+Tämä on uusi muutos
 Tehdään jokin muutos tiedostoon.
 <<<<<<< HEAD
 <<<<<<< HEAD
